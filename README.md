@@ -4,6 +4,10 @@
 
 Control a PiCam mounted on a servo. 
 
+## What's up with the name?
+
+Nanny-cams are mounted in teddy bears sooo...
+
 ## How do I build this?
 
 1. Clone this repo: `git clone https://github.com/elklein96/teddy`
